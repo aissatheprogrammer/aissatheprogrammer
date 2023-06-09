@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AIssa</h1>
+<h1 align="center">Hi 👋, I'm Aissa</h1>
 <h3 align="center">Versatile developer with a strong ability to work in a team. Curious and passionate about technological advancements and eager to apply what he learns.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aissatheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="aissatheprogrammer" /> </p>
